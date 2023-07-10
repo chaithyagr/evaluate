@@ -1,5 +1,7 @@
 # Evaluation
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chaithyagr/evaluate/HEAD)
+
 1. Please fork this repository and clone it locally
 2. Install a local Python environment, ensure you have install `numpy`, `scipy`, `matplotlib`, `jupyterlab` and `scikit-image` as requirements.
 3. Run the jupyter lab server from this base repository folder.
